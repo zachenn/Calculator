@@ -8,6 +8,8 @@
 
 import UIKit
 
+// Custom type
+
 enum modes {
 	
 	case not_set
